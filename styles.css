@@ -4,7 +4,7 @@ body {
     background-color: #3232CD;
     display: flex;
     flex-direction: column;
-    min-height: 95vh;
+    min-height: 80vh;
 }
 
 .main{
