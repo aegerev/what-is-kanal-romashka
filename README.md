@@ -1,4 +1,4 @@
-# Kanal Romashka: No To Violence, Yes To Education.
+# Y12: No To Violence, Yes To Education.
 This project aims to provide high-quality educational content for children and adults. It is inspired by the vision of Fred Rogers: "If we in public television can only make it clear that feelings are mentionable and manageable, we will have done a great service for mental health."
 
 ## Core Values:
